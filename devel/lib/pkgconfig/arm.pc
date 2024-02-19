@@ -1,0 +1,8 @@
+prefix=/home/lee/workspace/ROS_WS/test_ws/devel
+
+Name: arm
+Description: Description of arm
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
